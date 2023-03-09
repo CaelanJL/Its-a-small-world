@@ -1,5 +1,6 @@
 # Its-a-small-world
 Source code for Game Off 2022 Github Game Jam
+https://anonymouspenguin.itch.io/a-small-world
 
 Asset Sources:
 Music (Youtube Audio Library):
